@@ -7,6 +7,6 @@ public class Account {
     String accountName;
 
     public Account(){
-    
+
     }
 }
