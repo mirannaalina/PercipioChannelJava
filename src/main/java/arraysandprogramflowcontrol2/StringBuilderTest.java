@@ -1,4 +1,4 @@
-package arraysandprogramflowcontrol;
+package arraysandprogramflowcontrol2;
 
 public class StringBuilderTest {
      public static void main(String[]args){
