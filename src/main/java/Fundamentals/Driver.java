@@ -1,10 +1,6 @@
 package Fundamentals;
 
-import javafx.collections.transformation.SortedList;
 
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
 
 public class Driver {
 
@@ -17,6 +13,6 @@ public class Driver {
         UseException ex = new UseException();
         ex.testExp();
 
-       
+
     }
 }
